@@ -1,0 +1,24 @@
+#root {
+  background-color: black;
+}
+
+.wrapper {
+  background-color: white;
+  height: 100vh;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 412px;
+}
+
+/* Logo Page  */
+.logo {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1B202B;
+}
+
+.logo img {
+  width: 200px;
+}/*# sourceMappingURL=App.css.map */
